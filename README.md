@@ -1,5 +1,9 @@
 
-###Exemplos do livro Mean Stack Casa do Codigo
+###Exemplos do livro Mean Stack - Casa do Codigo
 
-npm install
-bower install
+##Instalar as dependencias.
+- npm install
+- bower install
+
+## Iniciar Aplicação
+- npm start
